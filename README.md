@@ -23,7 +23,10 @@ npm run
 ##Estudos: 
 ### https://fonts.google.com/ - fotes do Google
 https://materializecss.com/color.html - 
-https://phpzm.rocks/vuejs-services-consumindo-rest-apis-3bbb1488cc9d - dica de leitura
+
+##Dica de leitura
+https://phpzm.rocks/vuejs-services-consumindo-rest-apis-3bbb1488cc9d - 
+
 Curso prático GIT e GITHUB
 https://rockcontent.com/br/blog/ux-e-ui-design/
 
@@ -32,7 +35,9 @@ https://rockcontent.com/br/blog/ux-e-ui-design/
   - Local:   http://localhost:8080/
   - Network: http://192.168.0.103:8080/
 
+#App que foi consumida:
 
+https://jsonplaceholder.typicode.com/users
 
 
 ### Customize configuration
